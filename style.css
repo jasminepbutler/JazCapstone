@@ -1,33 +1,49 @@
-body, html {
+html {
     height: 100%;
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
   }
-  
+   
   .hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("photographer.jpg");
-    height: 50%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("JazGusLandscape.png");
+    width: 675px;
+    height: 510px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+
   }
   
   .hero-text {
-    
-    position: absolute;
+    text-align: right;
+    position:absolute;
     top: 50%;
     left: 80%;
     transform: translate(-50%, -50%);
     color: white;
     
   }
+
+  .hero-text button {
+    border: none;
+    outline: 0;
+    display:ruby-text
+    padding: 10px 25px;
+    color: white;
+    background-color: transparent;
+    text-align: right;
+    cursor: pointer;
+  }
   
+  .hero-text button:hover {
+    background-color: black;
+    opacity: 50%;
+  }
   
   h1 {
-  text-align: center
+  text-align: center;
   }
   
-  div {
-  text-align:justify
-  }
+
+
