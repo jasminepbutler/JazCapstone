@@ -3,7 +3,11 @@ html {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
   }
-   
+
+  h1 {
+    text-align: center;
+    }
+
   .hero-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("JazGusLandscape.png");
     width: 675px;
@@ -19,10 +23,10 @@ html {
     text-align: right;
     position:absolute;
     top: 50%;
-    left: 80%;
+    left: 50%;
     transform: translate(-50%, -50%);
     color: white;
-    
+    font-weight: 100;
   }
 
   .hero-text button {
@@ -40,10 +44,7 @@ html {
     background-color: black;
     opacity: 50%;
   }
-  
-  h1 {
-  text-align: center;
-  }
-  
-
-
+   
+.pclass {
+  width: 600px;
+}
