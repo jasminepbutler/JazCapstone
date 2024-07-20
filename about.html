@@ -30,14 +30,50 @@
             </div>
 
         </nav>
- 
+
+
+
+
+        
 
 
     <div class="container">
         <div class="row mt-5">
 
             <div class="col-9 text-white">
-                Content goes here.. Make the Nav bar stay visible.
+                <p id="time"></p>
+
+                <script>
+                    const time = new Date().getHours();
+                    let greeting;
+                    if (time < 10) {
+                      greeting = "Good morning. Welcome to my site.";
+                    } else if (time < 20) {
+                      greeting = "Good day. Welcome to my site.";
+                    } else {
+                      greeting = "Good evening. Welcome to my site.";
+                    }
+                    document.getElementById("time").innerHTML = greeting;
+                    </script>
+                    
+                    <p>The power of reinvention & reimagining is amazingly.
+                        <br>It's like gumbo-making and discovering you've
+                        <br>got to add a few ingredients so it's
+                        <br>just right.</p>
+
+                    <p>My flavor consists of 'Sugar. Spice. &
+                    <br><em>Everything</em> Nice.'</p>
+                    
+                    <p>
+                        MOOD exudes just that.. With powerful drums
+                        <br>inspired by 2 decades of experience,
+                        <br>self-evolution &
+                        <br>freedom of speech..
+                    </p>
+                    <p style="color: red;">
+                        <strong>Take a listen..</strong>
+                    </p>
+                    <iframe style="border-radius:5px" src="https://open.spotify.com/embed/track/03nYrtBDbkOohVNHhtfAGR?utm_source=generator" width="50%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
             </div>
 
             <div class="col-3">
@@ -62,7 +98,9 @@
     </div>  
     
     
+    
 
+    <script src="javabutton.js"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </body>
