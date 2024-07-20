@@ -4,29 +4,28 @@ Wireframe checklist:
 
 -Home(index.html)-<br>
 [ ]H tag<br>
-[ ]Hero image with text & Button<br>
+[ ]Hero image<br>
 [ ]Nav Bar<br>
-[ ]P tag with content<br>
-[ ]Footer<br>
+[ ]JavaScript button<br>
+<br>
+-ABOUT<br>
+[ ]Nav Bar with Header link<br>
+[ ]H tag<br>
+[ ]Image<br>
+[ ]List<br>
+[ ]JavaScript time Propmt<br>
+[ ]iFrame link
 <br>
 -Gallery<br>
-[ ]Nav Bar<br>
-[ ]Images with black border<br>
-[ ]Pop-Up box with Descriptions below, attempt.<br>
-[ ]Footer<br>
+[ ]Nav Bar with header link<br>
+[ ]Images<br>
 <br>
--Holiday Cards<br>
-[ ]Nav Bar<br>
-[ ]H tag<br>
-[ ]4 cards with images & H tag & P tag<br>
-[ ]Footer<br>
-<br>
--Favs Lists<br>
-[ ]Nav Bar<br>
-[ ]H tag<br>
-[ ]4 lists<br>
-[ ]P tag with content, possible.<br>
-[ ]Footer<br>
+-CONNECT<br>
+[ ]Nav Bar with header link<br>
+[ ]JavaScript Repeat<br>
+[ ]P tag with content<br>
+[ ]List
+
 <br><br>
 Wireframe Images
 <br>
@@ -34,3 +33,13 @@ Wireframe Images
 ![WireframeGallery](https://github.com/user-attachments/assets/5334c284-c667-4a54-80a9-fb3f9c2deb60)
 ![WireframeCards](https://github.com/user-attachments/assets/070ded07-acb1-40dd-9720-268ac06284d8)
 ![WireframeFavList](https://github.com/user-attachments/assets/956d071b-fad2-47f0-85c9-f96163698b72)
+
+Contact
+Jazmine Butler | Jasminepbuter@gmail.com
+
+Acknowledgements:
+https://www.w3schools.com/js/js_if_else.asp
+https://stackoverflow.com/questions/5025941/is-there-a-way-to-get-a-button-element-to-link-to-a-location-without-wrapping
+-BOOTSTRAP
+https://v2.scrimba.com/learn-bootstrap-c0o/~00
+-& ROBERT!
