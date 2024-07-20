@@ -25,6 +25,9 @@ Wireframe checklist:
 [ ]JavaScript Repeat<br>
 [ ]P tag with content<br>
 [ ]List
+<br>
+-Try.html is to try thing out before adding to the project.
+<br>It was very helpful.
 
 <br><br>
 Wireframe Images
@@ -40,6 +43,7 @@ Jazmine Butler | Jasminepbuter@gmail.com
 Acknowledgements:
 https://www.w3schools.com/js/js_if_else.asp
 https://stackoverflow.com/questions/5025941/is-there-a-way-to-get-a-button-element-to-link-to-a-location-without-wrapping
+https://www.w3.org/Style/Examples/007/fonts.en.html
 -BOOTSTRAP
 https://v2.scrimba.com/learn-bootstrap-c0o/~00
 -& ROBERT!
