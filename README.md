@@ -1,3 +1,6 @@
+Project subject:
+Artist website.
+
 
 Wireframe checklist:
 [JazWireframe.zip](https://github.com/user-attachments/files/16243080/JazWireframe.zip)
